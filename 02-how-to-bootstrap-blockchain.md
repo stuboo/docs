@@ -16,9 +16,7 @@ This guide will help you install a recent copy of the Blockchain.  This should s
  * "DB" folder
 
 
-4. Download this ZIP file:
-
- * https://s3.amazonaws.com/trtlpeers/trtl_block_204235.zip
+4. Go to the [bucket listing](https://turtle-blockchain.s3.amazonaws.com/index.html) and download the most recent ZIP file for the blockchain.
 
 5. Extract the zip into your %APPDATA%\TurtleCoin folder, there should now be two files in there
 6. Start TurtleCoind.exe like you normally do
@@ -33,8 +31,7 @@ This guide will help you install a recent copy of the Blockchain.  This should s
 ![findergoto.jpg](images/findergoto.jpg)
 
 4. Delete the files: blockindexes.bin and blocks.bin and "DB" folder if they exist
-5. Download this ZIP file:
-	* https://s3.amazonaws.com/trtlpeers/trtl_block_204235.zip
+5. Go to the [bucket listing](https://turtle-blockchain.s3.amazonaws.com/index.html) and download the most recent ZIP file for the blockchain.
 6. Extract the zip into your ~/.TurtleCoin/ folder, there should now be two files in there
 7. Start TurtleCoind like you normally do
 8. See [Expected Results](#ExpectedResults) section below
